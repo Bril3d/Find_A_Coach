@@ -1,2 +1,2 @@
-# Find_A_Couch
-Vue js Find A Couch App
+# Find_A_Coach
+Vue js Find A Coach App
